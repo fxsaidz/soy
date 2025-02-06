@@ -7,7 +7,7 @@ thumblink: 'https://image.tmdb.org/t/p/w200'
 
 # Atur permalink sesuai keinginan
 permalink: /:title
-paginate: 5
+paginate: 18
 paginate_path: "/page:num/"
 
 # Plugins GitHub Pages
