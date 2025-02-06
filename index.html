@@ -3,32 +3,54 @@ layout: default
 title: Home
 ---
 
-<div class="container">
-    <h2 class="text-center">Daftar Postingan Blog</h2>
-
-    {% for post in paginator.posts %}
-    <div class="post">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="">Posted on {{ post.thumb }}</p>
-        <p>{{ post.rating }}</p> <p>{{ post.thumb }}</p>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daftar Postingan Blog</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .card {
+      border: none;
+    }
+    .rating {
+      background: gold;
+      padding: 5px;
+      border-radius: 5px;
+      font-weight: bold;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <div class="container my-4">
+    <h2 class="text-center mb-4">Daftar Postingan Blog</h2>
+    <div class="row g-3">
+      {% for post in paginator.posts %}
+      <div class="col-md-2 col-6">
+        <div class="card">
+          <img src="{{ post.thumb }}" class="card-img-top" alt="{{ post.title }}">
+          <div class="card-body text-center p-2">
+            <h6 class="card-title">{{ post.title }}</h6>
+            <div class="rating">⭐ {{ post.rating }}</div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
     </div>
-    <hr>
-    {% endfor %}
 
-<div class="pagination">
-    <ul class="pagination justify-content-center">
-        {% if paginator.previous_page %}
-            <li class="page-item">
-                <a href="{{ paginator.previous_page_path }}" class="page-link">Previous</a>
-            </li>
-        {% endif %}
+    <div class="d-flex justify-content-center mt-4">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="btn btn-secondary me-2">Previous</a>
+      {% endif %}
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="btn btn-secondary">Next</a>
+      {% endif %}
+    </div>
+  </div>
 
-        {% if paginator.next_page %}
-            <li class="page-item">
-                <a href="{{ paginator.next_page_path }}" class="page-link">Next</a>
-            </li>
-        {% endif %}
-    </ul>
-</div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
 
-</div>
