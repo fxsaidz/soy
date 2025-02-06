@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!DOCTYPE html>
-<html lang="id">
+<html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +30,7 @@ title: Home
       {% for post in paginator.posts %}
       <div class="col-md-2 col-6">
         <div class="card">
-          <img src="{{ post.thumb }}" class="card-img-top" alt="{{ post.title }}">
+          <img src="https://image.tmdb.org/t/p/w185{{ post.thumb }}" class="card-img-top" alt="{{ post.title }}"/>
           <div class="card-body text-center p-2">
             <h6 class="card-title">{{ post.title }}</h6>
             <div class="rating">⭐ {{ post.rating }}</div>
