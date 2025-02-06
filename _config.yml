@@ -1,6 +1,9 @@
 title: SaiDz.My.ID
 url: https://m.saidz.my.id
 baseurl: "" # jika menggunakan custom domain kosongkan ini
+imglink: 'https://image.tmdb.org/t/p/w500'
+thumblink: 'https://image.tmdb.org/t/p/w200'
+
 
 # Atur permalink sesuai keinginan
 permalink: /:title
@@ -17,3 +20,4 @@ plugins:
 exclude:
   - .github
   - README.md
+
