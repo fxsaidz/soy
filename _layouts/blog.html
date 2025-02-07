@@ -19,7 +19,7 @@
             <aside class="col-md-4">
                 <h2 class="h5">Blog Terbaru</h2>
                 <ul class="list-group">
-                    {% for post in site.posts limit:5 %}
+                    {% for post in site.posts limit:20 %}
                         <li class="list-group-item">
                             <a href="{{ post.url }}" class="text-decoration-none">{{ post.title }}</a>
                         </li>
@@ -28,8 +28,8 @@
             </aside>
         </div>
     </main>
-    <footer class="bg-dark text-light py-4">
-    <div class="bg-secondary text-center py-2">
+    <footer class="bg-dark text-light py-6">
+    <div class="bg-secondary text-center py-2 m-4">
         &copy; 2025 - DramaSOY.
     </div>
     </footer>
