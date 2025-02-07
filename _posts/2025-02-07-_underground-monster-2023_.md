@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Underground Monster (2023)"
+permalink: "/underground-monster-2023/"
+thumb: "/lWVwWRLqpS1OaNg7KT0ZecSW0PK.jpg"
+rating: 5.7
+date: 2025-02-07
+---
+<h1 class="title">Underground Monster (2023)</h1><div class="poster"><img src="{{ site.imglink }}/lWVwWRLqpS1OaNg7KT0ZecSW0PK.jpg" alt="Underground Monster" class="img-fluid rounded"/></div><div class="plot">Near a remote town, the repeated dumping of toxic waste causes an underground cave dweller to mutate into a hideous monster. A construction team that is digging a tunnel accidentally disturb the creature's habitat causing it to attack.</div><h3>Movie Details:</h3><table class="table table-bordered details"><tr><th>Title</th><td>Underground Monster</td></tr><tr><th>Original Title</th><td>地底怪物</td></tr><tr><th>Release Date</th><td>27 April 2023</td></tr><tr><th>Runtime</th><td>90 min</td></tr><tr><th>Director</th><td>Huang He</td></tr><tr><th>Genre</th><td>Fantasy, Adventure</td></tr><tr><th>Spoken Languages</th><td>普通话</td></tr><tr><th>Rating</th><td>5.7</td></tr><tr><th>Vote Count</th><td>19</td></tr><tr><th>Tagline</th><td></td></tr><tr><th>Status</th><td>Released</td></tr><tr><th>Revenue</th><td>$0</td></tr><tr><th>Budget</th><td>$0</td></tr><tr><th>Production Countries</th><td>China</td></tr><tr><th>Production Companies</th><td>N/A</td></tr><tr><th>Popularity</th><td>43.882</td></tr><tr><th>Original Language</th><td>ZH</td></tr><tr><th>Homepage</th><td>   </td></tr><tr><th>IMDb ID</th><td>tt19638448</td></tr><tr><th>Movie ID</th><td>943344</td></tr></table><h3>Star Cast:</h3><ul class="list-group cast"><li>Wei Wei as He Chi</li><li>Wei Lu as Wu Linna</li><li>Zhang Chunzhong as He Jianghai</li><li>Yue Dongfeng as Lao Jia</li><li>Li Ruoxi as Ah Lei</li><li>Tang Xin as Wang Qidong</li><li>Zhang Shuangli as Boss Bai</li><li>Li Gaoji as Xiao Liu</li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Huang He - Director</li><li>Huan Niu - Writer</li></ul>

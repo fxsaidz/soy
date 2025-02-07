@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Nezha: Demon Child is Back (2024)"
+permalink: "/nezha-demon-child-is-back-2024/"
+thumb: "/bdhITckYK6CHhjRTYufi4As9mBM.jpg"
+rating: 8
+date: 2025-02-07
+---
+<h1 class="title">Nezha: Demon Child is Back (2024)</h1><div class="poster"><img src="{{ site.imglink }}/bdhITckYK6CHhjRTYufi4As9mBM.jpg" alt="Nezha: Demon Child is Back" class="img-fluid rounded"/></div><div class="plot"></div><h3>Movie Details:</h3><table class="table table-bordered details"><tr><th>Title</th><td>Nezha: Demon Child is Back</td></tr><tr><th>Original Title</th><td>哪吒·魔童归来</td></tr><tr><th>Release Date</th><td>30 July 2024</td></tr><tr><th>Runtime</th><td>79 min</td></tr><tr><th>Director</th><td>Wang Jiqing</td></tr><tr><th>Genre</th><td>Action, Fantasy</td></tr><tr><th>Spoken Languages</th><td>普通话</td></tr><tr><th>Rating</th><td>8</td></tr><tr><th>Vote Count</th><td>1</td></tr><tr><th>Tagline</th><td></td></tr><tr><th>Status</th><td>Released</td></tr><tr><th>Revenue</th><td>$0</td></tr><tr><th>Budget</th><td>$0</td></tr><tr><th>Production Countries</th><td>China</td></tr><tr><th>Production Companies</th><td>河南木雨文化传媒有限公司, 厦门留光文化传媒有限公司, 星之耀(厦门)影视文化传媒有限公司, 北京画本电影文化传媒有限公司, 北京初之文化传媒有限公司, 山东阅米文化有限公司, 福建万钟一品影视投资有限公司, 玉好时代(山东)文化发展有限公司出品, 北京画本电影文化传媒有限公司制作</td></tr><tr><th>Popularity</th><td>51.094</td></tr><tr><th>Original Language</th><td>ZH</td></tr><tr><th>Homepage</th><td>   </td></tr><tr><th>IMDb ID</th><td>N/A</td></tr><tr><th>Movie ID</th><td>1322985</td></tr></table><h3>Star Cast:</h3><ul class="list-group cast"><li>Chen Yitong as 哪吒</li><li>He Zhonghua as 李靖</li><li>Shang Na as Na Shang</li><li>赵子洛 as Ziluo Zhao</li><li>喻庆辉 as Qinghui Yu</li><li>王景华 as Jinghua Wang</li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Wang Jiqing - Director</li><li>Liu Daoxuan - Director</li></ul>
