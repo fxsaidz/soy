@@ -12,8 +12,8 @@ paginate_path: "/page-:num/"
 
 # Plugins GitHub Pages
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   # tambahkan plugin lain yang kompatibel dengan GitHub Pages
 
 # Exclude (jika ada file yang tidak ingin diproses oleh Jekyll)
