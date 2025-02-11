@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Primal: Tales of Savagery (2019)"
+permalink: "/primal-tales-of-savagery-2019/"
+thumb: "/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg"
+rating: 8.4
+date: 2025-02-11 09:52:09
+---
+<h1 class="title">Primal: Tales of Savagery (2019)</h1><div class="poster"><img src="{{ site.imglink }}/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg" alt="Primal: Tales of Savagery" class="img-fluid rounded"/></div><div class="plot">Genndy Tartakovsky's Primal: Tales of Savagery features a caveman and a dinosaur on the brink of extinction. Bonded by tragedy, this unlikely friendship becomes the only hope of survival.</div><h3>Movie Details:</h3><table class="table table-bordered details"><tr><th>Title</th><td>Primal: Tales of Savagery</td></tr><tr><th>Original Title</th><td>Primal: Tales of Savagery</td></tr><tr><th>Release Date</th><td>21 November 2019</td></tr><tr><th>Runtime</th><td>85 min</td></tr><tr><th>Director</th><td>Genndy Tartakovsky</td></tr><tr><th>Genre</th><td>Action, Adventure, Animation, Drama</td></tr><tr><th>Spoken Languages</th><td>English</td></tr><tr><th>Rating</th><td>8.4</td></tr><tr><th>Vote Count</th><td>324</td></tr><tr><th>Status</th><td>Released</td></tr><tr><th>Production Countries</th><td>United States of America</td></tr><tr><th>Production Companies</th><td>Cartoon Network Studios, Williams Street</td></tr><tr><th>Popularity</th><td>11.033</td></tr><tr><th>Original Language</th><td>EN</td></tr><tr><th>IMDb ID</th><td>tt11191124</td></tr><tr><th>Movie ID</th><td>704264</td></tr></table><h3>Star Cast:</h3><ul class="list-group cast"><li>Aaron LaPlante as Spear / Big Gorilla / Monkey #3 (voice)</li><li>Jon Olson as Krog / Shaman (voice)</li><li>Bryan Andrews as </li><li>Darrick Bachman as </li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Tyler Bates - Original Music Composer</li><li>Genndy Tartakovsky - Director</li></ul>
