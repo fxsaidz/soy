@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "University Challenge (1962)"
+permalink: "/university-challenge-1962/"
+thumb: "/yDLoEEFW3D6XSyT8UynTghc1Dyw.jpg"
+rating: 6
+date: 2025-02-11
+---
+<h1 class="title">University Challenge (1962)</h1><div class="poster"><img src="{{ site.imglink }}/yDLoEEFW3D6XSyT8UynTghc1Dyw.jpg" class="img-fluid my-3" alt="University Challenge"/></div><div class="plot">Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>University Challenge</td></tr><tr><th>Original Name</th><td>University Challenge</td></tr><tr><th>First Air Date</th><td>1962-09-21</td></tr><tr><th>Last Air Date</th><td>2024-12-16</td></tr><tr><th>Episode Runtime</th><td>30 min</td></tr><tr><th>Genre</th><td>Talk, Family</td></tr><tr><th>Status</th><td>Returning Series</td></tr><tr><th>Production Countries</th><td>United Kingdom</td></tr><tr><th>Origin Countries</th><td>GB</td></tr><tr><th>Spoken Languages</th><td>en</td></tr><tr><th>Rating</th><td>6</td></tr><tr><th>Vote Count</th><td>11</td></tr><tr><th>Production Companies</th><td>Lifted Entertainment, Granada Television</td></tr><tr><th>Popularity</th><td>1550.595</td></tr><tr><th>Original Language</th><td>EN</td></tr><tr><th>TV Show ID</th><td>5266</td></tr><tr><th>Homepage</th><td>http://www.bbc.co.uk/programmes/b006t6l0</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Amol Rajan as Self - Host</li><li>Roger Tilling as Self - Narrator</li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Holly Laffy - Production Manager</li><li>Bridget Caldwell - Director</li><li>Peter Gwyn - Executive Producer</li><li>Clare Parody - Producer</li></ul>

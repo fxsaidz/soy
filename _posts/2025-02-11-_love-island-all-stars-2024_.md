@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Love Island: All Stars (2024)"
+permalink: "/love-island-all-stars-2024/"
+thumb: "/hOHKevqnalNfhtVwTL8RqVKzQHC.jpg"
+rating: 3.9
+date: 2025-02-11
+---
+<h1 class="title">Love Island: All Stars (2024)</h1><div class="poster"><img src="{{ site.imglink }}/hOHKevqnalNfhtVwTL8RqVKzQHC.jpg" class="img-fluid my-3" alt="Love Island: All Stars"/></div><div class="plot">Some of your favourite Islanders from across the years heading back to the stunning South African villa to once again 'graft' as their search for love continues.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>Love Island: All Stars</td></tr><tr><th>Original Name</th><td>Love Island: All Stars</td></tr><tr><th>First Air Date</th><td>2024-01-15</td></tr><tr><th>Last Air Date</th><td>2025-02-10</td></tr><tr><th>Episode Runtime</th><td>48 min</td></tr><tr><th>Genre</th><td>Reality</td></tr><tr><th>Status</th><td>Returning Series</td></tr><tr><th>Production Countries</th><td>United States of America</td></tr><tr><th>Origin Countries</th><td>GB</td></tr><tr><th>Spoken Languages</th><td>en</td></tr><tr><th>Rating</th><td>3.9</td></tr><tr><th>Vote Count</th><td>15</td></tr><tr><th>Production Companies</th><td>GroupM Motion Entertainment</td></tr><tr><th>Popularity</th><td>1912.954</td></tr><tr><th>Original Language</th><td>EN</td></tr><tr><th>TV Show ID</th><td>243754</td></tr><tr><th>Homepage</th><td>https://www.itv.com/watch/love-island-all-stars/10a5231/2a3697a0505</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Maya Jama as Self - Host</li><li>Iain Stirling as Self - Narrator (voice)</li></ul>

@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "World News Tonight with David Muir (1948)"
+permalink: "/world-news-tonight-with-david-muir-1948/"
+thumb: "/e5bUkDlEOqPR7M4Mz3a5n9qA1x2.jpg"
+rating: 5.5
+date: 2025-02-11
+---
+<h1 class="title">World News Tonight with David Muir (1948)</h1><div class="poster"><img src="{{ site.imglink }}/e5bUkDlEOqPR7M4Mz3a5n9qA1x2.jpg" class="img-fluid my-3" alt="World News Tonight with David Muir"/></div><div class="plot">ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>World News Tonight with David Muir</td></tr><tr><th>Original Name</th><td>World News Tonight with David Muir</td></tr><tr><th>First Air Date</th><td>1948-08-11</td></tr><tr><th>Last Air Date</th><td>2025-02-09</td></tr><tr><th>Episode Runtime</th><td>30 min</td></tr><tr><th>Genre</th><td>News</td></tr><tr><th>Status</th><td>Returning Series</td></tr><tr><th>Production Countries</th><td>United States of America</td></tr><tr><th>Origin Countries</th><td>US</td></tr><tr><th>Spoken Languages</th><td>en</td></tr><tr><th>Rating</th><td>5.5</td></tr><tr><th>Vote Count</th><td>8</td></tr><tr><th>Production Companies</th><td>ABC News</td></tr><tr><th>Popularity</th><td>3084.224</td></tr><tr><th>Original Language</th><td>EN</td></tr><tr><th>TV Show ID</th><td>1770</td></tr><tr><th>Homepage</th><td>http://abcnews.go.com/wn</td></tr></table>

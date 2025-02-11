@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Autumn of the Heart (2024)"
+permalink: "/autumn-of-the-heart-2024/"
+thumb: "/8uDmIxjBx90y5OCwJDBADtQzxb7.jpg"
+rating: 4.2
+date: 2025-02-10
+---
+<h1 class="title">Autumn of the Heart (2024)</h1><div class="poster"><img src="{{ site.imglink }}/8uDmIxjBx90y5OCwJDBADtQzxb7.jpg" class="img-fluid my-3" alt="Autumn of the Heart"/></div><div class="plot">A devastating car accident unearths a long-buried secret that turns wealthy businessman Rashid and hardworking Nahla's life around; fifteen years ago, their daughters were switched at birth.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>Autumn of the Heart</td></tr><tr><th>Original Name</th><td>خريف القلب</td></tr><tr><th>First Air Date</th><td>2024-10-27</td></tr><tr><th>Last Air Date</th><td>2025-02-09</td></tr><tr><th>Episode Runtime</th><td>45 min</td></tr><tr><th>Genre</th><td>Drama, Family</td></tr><tr><th>Status</th><td>Returning Series</td></tr><tr><th>Production Countries</th><td>Saudi Arabia</td></tr><tr><th>Origin Countries</th><td>SA</td></tr><tr><th>Spoken Languages</th><td>ar</td></tr><tr><th>Rating</th><td>4.2</td></tr><tr><th>Vote Count</th><td>18</td></tr><tr><th>Production Companies</th><td>MBC Group, shahid</td></tr><tr><th>Popularity</th><td>2360.693</td></tr><tr><th>Original Language</th><td>AR</td></tr><tr><th>TV Show ID</th><td>251691</td></tr><tr><th>Homepage</th><td>https://shahid.mbc.net/ar/series/%D8%AE%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-1/season-1035897-1035900</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Abdul Mohsen Al-Nimr as Rashed</li><li>Elham Ali as Nahla</li><li>مروه محمد as Nahed</li><li>Lubna Abdulaziz as Farah</li><li>فيصل الدوخي as Humoud</li><li>Ibrahim AlHarbi as Rajeh</li><li>Hind Mohammad as Jawaher</li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Fikret Kadıoğlu - Director</li></ul>
