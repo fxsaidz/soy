@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Die Landarztpraxis (2023)"
+permalink: "/die-landarztpraxis-2023/"
+thumb: "/50SoVJ73Gnk0pBpUdQuCgOdyMrW.jpg"
+rating: 3.5
+date: 2025-02-12 09:42:56
+---
+<h1 class="title">Die Landarztpraxis (2023)</h1><div class="poster"><img src="{{ site.imglink }}/50SoVJ73Gnk0pBpUdQuCgOdyMrW.jpg" class="img-fluid my-3" alt="Die Landarztpraxis"/></div><div class="plot"></div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>Die Landarztpraxis</td></tr><tr><th>Original Name</th><td>Die Landarztpraxis</td></tr><tr><th>First Air Date</th><td>2023-10-16</td></tr><tr><th>Last Air Date</th><td>2025-02-10</td></tr><tr><th>Genre</th><td>Drama, Soap, Family</td></tr><tr><th>Status</th><td>Returning Series</td></tr><tr><th>Production Countries</th><td>Germany</td></tr><tr><th>Origin Countries</th><td>DE</td></tr><tr><th>Spoken Languages</th><td>de</td></tr><tr><th>Rating</th><td>3.5</td></tr><tr><th>Vote Count</th><td>2</td></tr><tr><th>Production Companies</th><td>Filmpool Entertainment</td></tr><tr><th>Popularity</th><td>2273.851</td></tr><tr><th>Original Language</th><td>DE</td></tr><tr><th>TV Show ID</th><td>234337</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Caroline Frier as Dr. Sarah König</li><li>Katharina Hirschberg as Leo König</li><li>Oliver Franck as Dr. Fabian Kroiß</li><li>Alexander Koll as Max Raichinger</li><li>Rosetta Pedone as Bianca Marino</li><li>Kathrin Anne Hess as Dr. Alexandra Seeberger-Kroiß</li><li>Simon Lucas as Basti Raichinger</li><li>Birgit Schneider as Annemarie König</li><li>Holger Menzel as Johannes Bachmair</li><li>Melanie Weichl as Martina Bachmair</li><li>Christian Hoening as Dr. Georg Kroiß</li><li>Marion Mathoi as Resi Hinterwimmer</li></ul>

@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Ready Steady Cook South Africa (2024)"
+permalink: "/ready-steady-cook-south-africa-2024/"
+thumb: "/30xX4IMbgnMbQwo76xM4BOSokZO.jpg"
+rating: 4.5
+date: 2025-02-12 09:45:08
+---
+<h1 class="title">Ready Steady Cook South Africa (2024)</h1><div class="poster"><img src="{{ site.imglink }}/30xX4IMbgnMbQwo76xM4BOSokZO.jpg" class="img-fluid my-3" alt="Ready Steady Cook South Africa"/></div><div class="plot">In Ready Steady Cook, two teams - a Red Tomato and a Green Pepper - compete in a Red Kitchen and a Green Kitchen, together with a South African chef on each side and paired with enthusiastic home cooks, as they are challenged creatively with a mystery bag of ingredients in a 20-minute cook-off.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>Ready Steady Cook South Africa</td></tr><tr><th>Original Name</th><td>Ready Steady Cook South Africa</td></tr><tr><th>First Air Date</th><td>2024-03-18</td></tr><tr><th>Last Air Date</th><td>2025-01-10</td></tr><tr><th>Genre</th><td>Reality</td></tr><tr><th>Status</th><td>Returning Series</td></tr><tr><th>Production Countries</th><td>South Africa</td></tr><tr><th>Origin Countries</th><td>ZA</td></tr><tr><th>Spoken Languages</th><td>en</td></tr><tr><th>Rating</th><td>4.5</td></tr><tr><th>Vote Count</th><td>9</td></tr><tr><th>Production Companies</th><td>Primedia Productions, Rose and Oaks Media</td></tr><tr><th>Popularity</th><td>1609.646</td></tr><tr><th>Original Language</th><td>EN</td></tr><tr><th>TV Show ID</th><td>248890</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Moshe Ndiki as Presenter</li></ul>

@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Gute Zeiten, schlechte Zeiten (1992)"
+permalink: "/gute-zeiten-schlechte-zeiten-1992/"
+thumb: "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg"
+rating: 5.7
+date: 2025-02-12 09:43:04
+---
+<h1 class="title">Gute Zeiten, schlechte Zeiten (1992)</h1><div class="poster"><img src="{{ site.imglink }}/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg" class="img-fluid my-3" alt="Gute Zeiten, schlechte Zeiten"/></div><div class="plot">Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>Gute Zeiten, schlechte Zeiten</td></tr><tr><th>Original Name</th><td>Gute Zeiten, schlechte Zeiten</td></tr><tr><th>First Air Date</th><td>1992-05-11</td></tr><tr><th>Last Air Date</th><td>2025-02-10</td></tr><tr><th>Episode Runtime</th><td>23 min</td></tr><tr><th>Genre</th><td>Drama, Soap</td></tr><tr><th>Status</th><td>Returning Series</td></tr><tr><th>Production Countries</th><td>Germany</td></tr><tr><th>Origin Countries</th><td>DE</td></tr><tr><th>Spoken Languages</th><td>de</td></tr><tr><th>Rating</th><td>5.7</td></tr><tr><th>Vote Count</th><td>35</td></tr><tr><th>Production Companies</th><td>UFA Serial Drama, Grundy UFA TV Produktions</td></tr><tr><th>Popularity</th><td>2268.605</td></tr><tr><th>Original Language</th><td>DE</td></tr><tr><th>TV Show ID</th><td>13945</td></tr><tr><th>Homepage</th><td>http://www.gzsz.de</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Wolfgang Bahro as Prof. Dr. Dr. Hans-Joachim 'Jo' Gerner</li><li>Anne Menden as Emily Höfer-Wiedmann</li></ul>
