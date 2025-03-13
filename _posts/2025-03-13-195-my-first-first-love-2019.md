@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "My First First Love (2019)"
+permalink: "/my-first-first-love-2019/"
+thumb: "/q4FYMBAAYmO9PoUsTUu66hU9x4R.jpg"
+rating: 8.3
+date: 2025-03-13 10:43:58
+---
+<h1 class="title">My First First Love (2019)</h1><div class="poster"><img src="{{ site.imglink }}/q4FYMBAAYmO9PoUsTUu66hU9x4R.jpg" class="img-fluid my-3" alt="My First First Love"/></div><div class="plot">Due to various personal reasons, a group of Yun Tae-o’s friends move into his house, where they experience love, friendship, and everything in between.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>My First First Love</td></tr><tr><th>Original Name</th><td>첫사랑은 처음이라서</td></tr><tr><th>First Air Date</th><td>2019-04-18</td></tr><tr><th>Last Air Date</th><td>2019-07-26</td></tr><tr><th>Genre</th><td>Drama</td></tr><tr><th>Status</th><td>Ended</td></tr><tr><th>Production Countries</th><td>South Korea</td></tr><tr><th>Origin Countries</th><td>KR</td></tr><tr><th>Spoken Languages</th><td>ko</td></tr><tr><th>Rating</th><td>8.3</td></tr><tr><th>Vote Count</th><td>537</td></tr><tr><th>Production Companies</th><td>AStory</td></tr><tr><th>Popularity</th><td>3.547</td></tr><tr><th>Original Language</th><td>KO</td></tr><tr><th>TV Show ID</th><td>87527</td></tr><tr><th>Homepage</th><td>https://www.netflix.com/title/81026700</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Kim Ji-soo as Yoon Tae-Oh</li><li>Jung Chae-yeon as Han Song-Yi</li><li>Jung Jin-young as Seo Do-Hyun</li><li>Choi Ri as Oh Ga-Rin</li><li>Kang Tae-oh as Choi Hoon</li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Oh Jin-seok - Director</li><li>Kim Ran - Writer</li><li>Jung Hyun-jung - Original Story</li><li>Lee Hae-won - Lighting Director</li></ul>

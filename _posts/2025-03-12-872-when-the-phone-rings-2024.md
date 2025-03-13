@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "When the Phone Rings (2024)"
+permalink: "/when-the-phone-rings-2024/"
+thumb: "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg"
+rating: 8.4
+date: 2025-03-12 12:24:47
+---
+<h1 class="title">When the Phone Rings (2024)</h1><div class="poster"><img src="{{ site.imglink }}/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg" class="img-fluid my-3" alt="When the Phone Rings"/></div><div class="plot">A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>When the Phone Rings</td></tr><tr><th>Original Name</th><td>지금 거신 전화는</td></tr><tr><th>First Air Date</th><td>2024-11-22</td></tr><tr><th>Last Air Date</th><td>2025-01-04</td></tr><tr><th>Episode Runtime</th><td>70 min</td></tr><tr><th>Genre</th><td>Drama, Mystery</td></tr><tr><th>Status</th><td>Ended</td></tr><tr><th>Production Countries</th><td>South Korea</td></tr><tr><th>Origin Countries</th><td>KR</td></tr><tr><th>Spoken Languages</th><td>ko</td></tr><tr><th>Rating</th><td>8.4</td></tr><tr><th>Vote Count</th><td>212</td></tr><tr><th>Tagline</th><td>Their love hangs by a thread... until a stranger picks up the phone.</td></tr><tr><th>Production Companies</th><td>Bon Factory, Baram Pictures</td></tr><tr><th>Popularity</th><td>5.072</td></tr><tr><th>Original Language</th><td>KO</td></tr><tr><th>TV Show ID</th><td>253905</td></tr><tr><th>Homepage</th><td>https://program.imbc.com/WhenThePhoneRings</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Yoo Yeon-seok as Baek Sa-eon</li><li>Chae Soo-bin as Hong Hee-ju</li><li>Heo Nam-jun as Ji Sang-woo</li><li>Jang Gyu-ri as Na Yu-ri</li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Park Sang-woo - Director</li><li>Kim Ji-woon - Writer</li><li>Wi Deuk-gyoo - Director</li></ul>
