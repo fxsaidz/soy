@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Gyeongseong Creature (2023)"
+permalink: "/gyeongseong-creature-2023/"
+thumb: "/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg"
+rating: 8.107
+date: 2025-03-14 10:04:37
+---
+<h1 class="title">Gyeongseong Creature (2023)</h1><div class="poster"><img src="{{ site.imglink }}/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg" class="img-fluid my-3" alt="Gyeongseong Creature"/></div><div class="plot">Gyeongseong, 1945. In Seoul's grim era under colonial rule, an entrepreneur and a sleuth fight for survival and face a monster born out of human greed.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>Gyeongseong Creature</td></tr><tr><th>Original Name</th><td>경성크리처</td></tr><tr><th>First Air Date</th><td>2023-12-22</td></tr><tr><th>Last Air Date</th><td>2024-09-27</td></tr><tr><th>Genre</th><td>Sci-Fi & Fantasy, Mystery, Action & Adventure, Drama</td></tr><tr><th>Status</th><td>Ended</td></tr><tr><th>Production Countries</th><td>South Korea</td></tr><tr><th>Origin Countries</th><td>KR</td></tr><tr><th>Spoken Languages</th><td>en, ko</td></tr><tr><th>Rating</th><td>8.107</td></tr><tr><th>Vote Count</th><td>253</td></tr><tr><th>Tagline</th><td>Behold, the powers of destiny. Beware, the powers of karma.</td></tr><tr><th>Production Companies</th><td>Story & Pictures Media, Studio Dragon, Kakao Entertainment</td></tr><tr><th>Popularity</th><td>3.68</td></tr><tr><th>Original Language</th><td>KO</td></tr><tr><th>TV Show ID</th><td>135238</td></tr><tr><th>Homepage</th><td>https://www.netflix.com/title/81618079</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Park Seo-jun as Jang Ho-jae</li><li>Han So-hee as Yoon Chae-ok</li></ul>

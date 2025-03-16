@@ -1,0 +1,9 @@
+---
+layout: blog
+title: "Lovestruck in the City (2020)"
+permalink: "/lovestruck-in-the-city-2020/"
+thumb: "/ylSkgVyStX0DwSF8irjQVAf2P4H.jpg"
+rating: 7.7
+date: 2025-03-16 05:00:21
+---
+<h1 class="title">Lovestruck in the City (2020)</h1><div class="poster"><img src="{{ site.imglink }}/ylSkgVyStX0DwSF8irjQVAf2P4H.jpg" class="img-fluid my-3" alt="Lovestruck in the City"/></div><div class="plot">Heart stolen by a free-spirited woman after a beachside romance, a passionate architect sets out to reunite with her on the streets of Seoul.</div><h3>TV Show Details:</h3><table class="table table-bordered details"><tr><th>Name</th><td>Lovestruck in the City</td></tr><tr><th>Original Name</th><td>도시남녀의 사랑법</td></tr><tr><th>First Air Date</th><td>2020-12-22</td></tr><tr><th>Last Air Date</th><td>2021-02-16</td></tr><tr><th>Episode Runtime</th><td>30 min</td></tr><tr><th>Genre</th><td>Drama</td></tr><tr><th>Status</th><td>Ended</td></tr><tr><th>Production Countries</th><td>South Korea</td></tr><tr><th>Origin Countries</th><td>KR</td></tr><tr><th>Spoken Languages</th><td>ko</td></tr><tr><th>Rating</th><td>7.7</td></tr><tr><th>Vote Count</th><td>152</td></tr><tr><th>Production Companies</th><td>Story & Pictures Media, Kakao Entertainment</td></tr><tr><th>Popularity</th><td>3.544</td></tr><tr><th>Original Language</th><td>KO</td></tr><tr><th>TV Show ID</th><td>113710</td></tr><tr><th>Homepage</th><td>https://tv.kakao.com/channel/3701537/cliplink/414566218?metaObjectType=Channel</td></tr></table><h3>Cast:</h3><ul class="list-group cast"><li>Ji Chang-wook as Park Jae-won</li><li>Kim Ji-won as Lee Eun-oh</li><li>Kim Min-seok as Choi Kyung-joon</li><li>So Joo-yeon as Seo Rin-yi</li><li>Ryu Kyung-soo as Kang Geon</li><li>Han Ji-eun as Oh Sun-young</li></ul><h3>Credits:</h3><ul class="list-group crew"><li>Park Shin-woo - Director</li><li>Jung Hyun-jung - Writer</li><li>Nam Hye-seung - Original Music Composer</li></ul>
